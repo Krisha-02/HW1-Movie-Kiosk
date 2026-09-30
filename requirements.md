@@ -4,3 +4,4 @@
    3. A customer can purchase a ticket.
    4. The system provides a confirmation after purchase.
    5. The system must prevent the same seat from being sold twice.
+Priority: requirements 2, 3 and 5 are high priority.
